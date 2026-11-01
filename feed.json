@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Łukasz Gołębiewski Portfolio",
+    "description": "",
+    "home_page_url": "https://trytongolem.github.io",
+    "feed_url": "https://trytongolem.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Łukasz Gołębiewski"
+    },
+    "items": [
+        {
+            "id": "https://trytongolem.github.io/brand-new-page/",
+            "url": "https://trytongolem.github.io/brand-new-page/",
+            "title": "Brand new page!",
+            "summary": "It's time to move on from my old page and create a brand new portfolio... And here it is! I decided to finally update my&hellip;",
+            "content_html": "<blockquote>\n<p>It's time to move on from my old page and create a brand new portfolio...</p>\n</blockquote>\n<p>And here it is!</p>\n<p>I decided to <strong>finally </strong>update my old, outdated portfolio page which was created with a boilerplate called getskeleton.</p>\n<figure class=\"post__image\"><img loading=\"lazy\" src=\"https://trytongolem.github.io/media/posts/6/Screenshot-2026-10-22-at-00.41.08.png\" alt=\"\" width=\"1736\" height=\"1021\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-10-22-at-00.41.08-xs.png 300w ,https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-10-22-at-00.41.08-sm.png 480w ,https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-10-22-at-00.41.08-md.png 768w ,https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-10-22-at-00.41.08-lg.png 1024w ,https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-10-22-at-00.41.08-xl.png 1360w ,https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-10-22-at-00.41.08-2xl.png 1600w\">\n<figcaption>It doesn't look that bad but all the information is so outdated!</figcaption>\n</figure>\n<p>So, when creating a brand new portofolio, a new question arrived:</p>\n<h5>How do I create a brand new portfolio?</h5>\n<p>I mean I already created a website for my theatre <a href=\"https://teatrantrakt.pl/\" target=\"_blank\" rel=\"noopener noreferrer\">teatrantrakt.pl</a> and I created it (with my <a href=\"https://0qa.cc/\" target=\"_blank\" rel=\"noopener noreferrer\">brothers</a> help). The thing is that this website was created using a static site generator called hugo. It's a very good system that allows to create websites using created themes and editing only using markdown. No HTML or CSS knowledge required! But it stills requires markdown knowledge and using a seperate file editor such VS Code, Zed or a regular notepad. It's not ideal for long term or fast paced changing of data on the site.</p>\n<figure class=\"post__image\"><img loading=\"lazy\" src=\"https://trytongolem.github.io/media/posts/6/Screenshot-2026-11-01-at-21.05.16.png\" alt=\"Hugo screenshot\" width=\"1694\" height=\"1013\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-11-01-at-21.05.16-xs.png 300w ,https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-11-01-at-21.05.16-sm.png 480w ,https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-11-01-at-21.05.16-md.png 768w ,https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-11-01-at-21.05.16-lg.png 1024w ,https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-11-01-at-21.05.16-xl.png 1360w ,https://trytongolem.github.io/media/posts/6/responsive/Screenshot-2026-11-01-at-21.05.16-2xl.png 1600w\">\n<figcaption>It's still a very good framework and I highly recommend trying it out if you're interested</figcaption>\n</figure>\n<h5>The switch</h5>\n<p>I never really liked any of the CMS. The thought of using WordPress always makes me wanna puke. I tried joomla and drupal and while slightly better than WordPress they're still a mess. Then thanks to my brother I discovered a brand new player: <strong>Publii.</strong></p>\n<p>Thanks to Publii I was literally able to create an <a href=\"https://archeo-nadzory.pl/\" target=\"_blank\" rel=\"noopener noreferrer\">archeolgist webiste</a> for my friend within 4-6 hours. I never had such an ease of creating a website and coming back to it to edit the information.</p>\n<h5>Conclusion</h5>\n<p>So, here we are! On my brand new portolio page using Publli.</p>\n<p> </p>",
+            "author": {
+                "name": "Łukasz Gołębiewski"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-22T00:46:19+02:00",
+            "date_modified": "2026-11-01T21:10:35+01:00"
+        }
+    ]
+}
